@@ -1,5 +1,5 @@
 /* P0.c */ 
-/* Natália Kayabi */ 
+/* NatÃ¡lia Kayabi */ 
 /* 11711EBI033 */ 
 
 #include <stdio.h> 
